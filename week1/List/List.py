@@ -4,7 +4,7 @@ class List():
 
     #  Init list of numbers
     def __init__(self) -> None:
-        self.numbers = [],
+        self.numbers = []
         pass
     
     # Add a series of numbers into list, and sort them.
@@ -14,7 +14,7 @@ class List():
             self.numbers.append(num)
             self.numbers.sort()
         
-
+        
 # Setting list variable and calling input function
 list = List()
 list.add_num()
