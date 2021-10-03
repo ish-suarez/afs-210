@@ -1,7 +1,5 @@
 # This is the source of my work: https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-1.php
 
-
-
 # Binary Search
 def ordered_binary_search(num_list, num):
     # setting the first, last indexes and if the number is found.
