@@ -1,4 +1,4 @@
-# This is my source
+# This is my source: https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-10.php
 
 # Function that runs the counting sort, taking an array and a max
 def counting_sort(array1, max_val):
