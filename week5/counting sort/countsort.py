@@ -15,4 +15,5 @@ def counting_sort(array1, max_val):
             i += 1
     return array1
 
+print(f'Sample Output:')
 print(counting_sort( [1, 2, 7, 3, 2, 1, 4, 2, 3, 2, 1], 7 ))
