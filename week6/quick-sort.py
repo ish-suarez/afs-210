@@ -2,14 +2,9 @@
 print('\n')
 
 array = [8, 2, 6, 4, 5]
+print(f'Using Sorted array method: {sorted(array)}')
 
-def sortedArr(array):
-    sorted(array)
-
-sortedArr(array)
-print(f'Using Sorted array method: {array}')
-
-# --------------------
+# -------------
 print(3*'\n*', '\n')
 
 
