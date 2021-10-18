@@ -151,11 +151,11 @@ def menu():
     print('\n')
 
 currentQue = YourQue()
-currentQue.add(Song('Back in black', 'ACDC'))
-currentQue.add(Song('Gummy Bear Song', 'Gummy Bear Guy'))
-currentQue.add(Song('Chicken On a Raft', 'Chicken On A Raft Guy'))
-currentQue.add(Song('If Walls Could Talk', '5 seconds of summer'))
-currentQue.add(Song('Young Blood', '5 seconds of summer'))
+currentQue.add(Song('Alone', 'Kid Cudi'))
+currentQue.add(Song('Under The Bridge', 'Red Hot Chili Pepers'))
+currentQue.add(Song('Jugaste y Sufri', 'Eslabon Armado'))
+currentQue.add(Song('This Letter I Write', 'Verum'))
+currentQue.add(Song('Sleepwalk', 'Santo & Johnny'))
 
 '''
     While Statement For Menu
