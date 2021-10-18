@@ -88,7 +88,7 @@ class YourQue:
             else:
                 next_song = self.c + 1 # if first song, play second and so on
 
-            print("\nSkipping....")
+            print(f"\nSkipping Song...")
             self.play(next_song)
         else:
             print('\nNo Song Is Currently Playing')
